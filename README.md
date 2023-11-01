@@ -21,4 +21,7 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [DEMO](https://demo-starter-froala-vue3-279482f58963.herokuapp.com/)
+* [Froala Editor home page](https://froala.com/)
+* [Docs:Basic Concepts](https://froala.com/wysiwyg-editor/docs/concepts-land/)
+* [Docs:Options](https://froala.com/wysiwyg-editor/docs/options/)
